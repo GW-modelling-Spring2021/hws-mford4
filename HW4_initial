@@ -1,0 +1,14 @@
+Really good start.
+
+1. WHY does the flow increase toward the center of the boundary?
+
+2.  I think that you interpreted these as heads, not flows?
+
+3. Very minor point ... but the left half of the oval should be the boundary, right?
+
+4. This one is tricky.  Near the well they SHOULD be circles ... why aren't they?
+Farther from the well, you are right.  But, see if you can craft and explanation
+that invokes both the constant head and no flow boundaries.
+
+5. Good catch on the row indices!  The built-in flopy plotting routines make the
+'flip' for you.  Just remember this if you decide to create your own plots!
